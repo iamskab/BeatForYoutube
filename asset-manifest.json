@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jukeboxYouTube/static/css/main.f9d41231.chunk.css",
-    "main.js": "/jukeboxYouTube/static/js/main.cda79453.chunk.js",
-    "main.js.map": "/jukeboxYouTube/static/js/main.cda79453.chunk.js.map",
+    "main.js": "/jukeboxYouTube/static/js/main.fbea92b3.chunk.js",
+    "main.js.map": "/jukeboxYouTube/static/js/main.fbea92b3.chunk.js.map",
     "runtime-main.js": "/jukeboxYouTube/static/js/runtime-main.f0acdfca.js",
     "runtime-main.js.map": "/jukeboxYouTube/static/js/runtime-main.f0acdfca.js.map",
     "static/css/2.6375f8dd.chunk.css": "/jukeboxYouTube/static/css/2.6375f8dd.chunk.css",
     "static/js/2.4b2096d8.chunk.js": "/jukeboxYouTube/static/js/2.4b2096d8.chunk.js",
     "static/js/2.4b2096d8.chunk.js.map": "/jukeboxYouTube/static/js/2.4b2096d8.chunk.js.map",
     "index.html": "/jukeboxYouTube/index.html",
-    "precache-manifest.861bc5d6a74e0e675e381ce849f6caf6.js": "/jukeboxYouTube/precache-manifest.861bc5d6a74e0e675e381ce849f6caf6.js",
+    "precache-manifest.015e110cd63618ce1b667271ce710c1f.js": "/jukeboxYouTube/precache-manifest.015e110cd63618ce1b667271ce710c1f.js",
     "service-worker.js": "/jukeboxYouTube/service-worker.js",
     "static/css/2.6375f8dd.chunk.css.map": "/jukeboxYouTube/static/css/2.6375f8dd.chunk.css.map",
     "static/css/main.f9d41231.chunk.css.map": "/jukeboxYouTube/static/css/main.f9d41231.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.6375f8dd.chunk.css",
     "static/js/2.4b2096d8.chunk.js",
     "static/css/main.f9d41231.chunk.css",
-    "static/js/main.cda79453.chunk.js"
+    "static/js/main.fbea92b3.chunk.js"
   ]
 }

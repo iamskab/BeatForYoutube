@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c720e2a17ce987d526f25d13b4f6977b",
+    "revision": "c8a6330c80fb90c5da74641dc7430384",
     "url": "/jukeboxYouTube/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jukeboxYouTube/static/css/2.6375f8dd.chunk.css"
   },
   {
-    "revision": "6b141f0a50c58895d249",
+    "revision": "11f2c93954d1c54144c5",
     "url": "/jukeboxYouTube/static/css/main.f9d41231.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jukeboxYouTube/static/js/2.4b2096d8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6b141f0a50c58895d249",
-    "url": "/jukeboxYouTube/static/js/main.cda79453.chunk.js"
+    "revision": "11f2c93954d1c54144c5",
+    "url": "/jukeboxYouTube/static/js/main.fbea92b3.chunk.js"
   },
   {
     "revision": "10065b766dd2fdf6eb8e",
